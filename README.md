@@ -10,9 +10,7 @@ O app foi pensado para ser leve, funcional e acessível, com um design limpo e o
 
 Abaixo estão os protótipos iniciais do OrganizApp, representando as principais telas do app mobile. Essas telas foram desenvolvidas com foco na simplicidade, acessibilidade e funcionalidade, refletindo o design planejado para o MVP do aplicativo.
 
-<p align="center">
-  <img src="img/prototipo.png" alt="Protótipos de Tela do OrganizApp" width="600"/>
-</p>
+![Protótipo de telas](img/logo.png)
 
 ### 🖼️ Telas incluídas no protótipo:
 - Tela de Splash (Logo de abertura)
