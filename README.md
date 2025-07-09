@@ -46,11 +46,11 @@ Ou veja no link direto: [Abrir Diagrama ERD](https://drive.google.com/file/d/1o5
 - [X] Configuração de ferramentas e IDE.
 - [X] Criação do repositório no GitHub.
 - [X] Definição de estrutura de pastas e organização do código.
-- [ ] Instalação das dependências iniciais.
+- [x] Instalação das dependências iniciais.
 - [X] Criação de wireframes e protótipos das principais telas no Figma (ou outra ferramenta).
-- [ ] Criação das telas principais do app.
-- [ ] Implementação de funcionalidades básicas (como adição e visualização de tarefas).
-- [ ] Testes iniciais de usabilidade.
+- [x] Criação das telas principais do app.
+- [x] Implementação de funcionalidades básicas (como adição e visualização de tarefas).
+- [x] Testes iniciais de usabilidade.
 - [ ] Implementação de funções CRUD para tarefas.
 - [ ] Adição de categorias e prazos para as tarefas.
 - [ ] Testes de funcionalidades completas.
